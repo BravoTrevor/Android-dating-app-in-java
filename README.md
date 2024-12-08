@@ -1,7 +1,6 @@
 Dating App for the young Kenyan adult
 
 
-Description
 KanairoRizz is a "dating" app specifically tailored for young adults in Kenyan campuses. This is to take advantage of the lack of existing dating apps that focus on the local dating scene. Most apps are build by and for Western-country users whose dating ideals and norms are quite different from those of Kenyans.  
 
 
